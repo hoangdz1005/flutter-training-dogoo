@@ -1,0 +1,1 @@
+enum Product { Apple, Samsung, Huawei, Oppo, BKAV}
